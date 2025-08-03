@@ -57,4 +57,10 @@ php artisan serve
 
 ## Auteur
 
-Développé par Sawadogo Abdel Kaled, Coulibaly San Wilfried, Dargani Charlenne & Kaboré Alida pour l'IBAM.
+Développé par :
+    Sawadogo Abdel Kaled, 
+    Coulibaly San Wilfried, 
+    Dargani Charlenne & 
+    Kaboré Alida 
+    
+pour l'IBAM.
